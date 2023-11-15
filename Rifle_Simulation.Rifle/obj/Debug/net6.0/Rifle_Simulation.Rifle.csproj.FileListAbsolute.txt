@@ -1,0 +1,11 @@
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\bin\Debug\net6.0\Rifle_Simulation.Rifle.deps.json
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\bin\Debug\net6.0\Rifle_Simulation.Rifle.dll
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\bin\Debug\net6.0\Rifle_Simulation.Rifle.pdb
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\obj\Debug\net6.0\Rifle_Simulation.Rifle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\obj\Debug\net6.0\Rifle_Simulation.Rifle.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\obj\Debug\net6.0\Rifle_Simulation.Rifle.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\obj\Debug\net6.0\Rifle_Simulation.Rifle.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\obj\Debug\net6.0\Rifle_Simulation.Rifle.dll
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\obj\Debug\net6.0\refint\Rifle_Simulation.Rifle.dll
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\obj\Debug\net6.0\Rifle_Simulation.Rifle.pdb
+C:\Users\Uncle Nurlan\Desktop\Rifle_Simulation\Rifle_Simulation.Rifle\obj\Debug\net6.0\ref\Rifle_Simulation.Rifle.dll

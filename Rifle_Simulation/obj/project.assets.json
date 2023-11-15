@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Rifle_Simulation.Rifle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Rifle_Simulation.Rifle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Rifle_Simulation.Rifle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rifle_Simulation.Rifle/1.0.0": {
+      "type": "project",
+      "path": "../Rifle_Simulation.Rifle/Rifle_Simulation.Rifle.csproj",
+      "msbuildProject": "../Rifle_Simulation.Rifle/Rifle_Simulation.Rifle.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Rifle_Simulation.Rifle >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Uncle Nurlan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Uncle Nurlan\\Desktop\\Rifle_Simulation\\Rifle_Simulation\\Rifle_Simulation.csproj",
+      "projectName": "Rifle_Simulation",
+      "projectPath": "C:\\Users\\Uncle Nurlan\\Desktop\\Rifle_Simulation\\Rifle_Simulation\\Rifle_Simulation.csproj",
+      "packagesPath": "C:\\Users\\Uncle Nurlan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Uncle Nurlan\\Desktop\\Rifle_Simulation\\Rifle_Simulation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Uncle Nurlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Uncle Nurlan\\Desktop\\Rifle_Simulation\\Rifle_Simulation.Rifle\\Rifle_Simulation.Rifle.csproj": {
+              "projectPath": "C:\\Users\\Uncle Nurlan\\Desktop\\Rifle_Simulation\\Rifle_Simulation.Rifle\\Rifle_Simulation.Rifle.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

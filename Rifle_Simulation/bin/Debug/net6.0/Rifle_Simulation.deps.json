@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Rifle_Simulation/1.0.0": {
+        "dependencies": {
+          "Rifle_Simulation.Rifle": "1.0.0"
+        },
+        "runtime": {
+          "Rifle_Simulation.dll": {}
+        }
+      },
+      "Rifle_Simulation.Rifle/1.0.0": {
+        "runtime": {
+          "Rifle_Simulation.Rifle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rifle_Simulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rifle_Simulation.Rifle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
